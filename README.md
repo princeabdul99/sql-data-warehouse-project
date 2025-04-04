@@ -38,8 +38,8 @@ These insights empower stakeholders with key business metric, enabling strategic
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution
 
+<!---
 ## 🌟 About Me
 
-<---
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
--->
+--->
